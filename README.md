@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
     <h1 align="center">Hola Mundo!🖐</h1>
-    <h3 align="center> Estudiante de Desarrollo de software que busca la oportunidad de adquirir experiencia en el campo de la tecnología, trabajando en equipo,  cooperando y apoyando de la mejor manera posible.
+    <h3 align="center"> Estudiante de Desarrollo de software que busca la oportunidad de adquirir experiencia en el campo de la tecnología, trabajando en equipo,  cooperando y apoyando de la mejor manera posible.
     </h3>
 </div>
 
