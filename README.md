@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 ---
 ACTUALMENTE ME DEDICO A:
 - 🔭 Reforzar mis conocimientos sobre diferentes tecnologías
-- 🌱 Realizar pequeños proyectos  
+- 🌱 Realizar proyectos más profesionales  
 - 👯 Investigar y analizar principios de buenas practicas 
 - 🤔 Complementar mis estudios 
 - 💬 Capacitarme para la inmersión en este maravilloso mundo   
